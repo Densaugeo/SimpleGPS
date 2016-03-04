@@ -13,5 +13,12 @@
   "author": "Densaugeo",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "files": [
+    "LICENSE",
+    "package.json",
+    "README.md",
+    "SimpleGPS-32.png",
+    "SimpleGPS.html"
+  ]
 }
