@@ -1,24 +1,28 @@
 {
   "name": "simplegps",
-  "version": "0.1.1",
-  "engines": {},
+  "version": "0.1.2",
   "description": "Very simple mobile GPS + compass app for Firefox",
-  "main": "SimpleGPS.html",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Densaugeo/SimpleGPS"
-  },
   "keywords": [],
-  "author": "Densaugeo",
+  "homepage":,
+  "bugs":,
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {},
+  "author": "Densaugeo (http://madengineersworkshop.net/)",
+  "contributors": [],
   "files": [
     "LICENSE",
     "package.json",
     "README.md",
     "SimpleGPS-32.png",
     "SimpleGPS.html"
-  ]
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Densaugeo/SimpleGPS.git"
+  },
+  "scripts": {},
+  "config": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {}
 }
